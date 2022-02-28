@@ -27,10 +27,10 @@ GitPython==3.1.27
 idna==3.3
 importlib-metadata==4.11.2
 importlib-resources==5.4.0
-ipykernel==6.9.1
-ipython==8.1.0
-ipython-genutils==0.2.0
-ipywidgets==7.6.5
+ipykernel
+ipython
+ipython-genutils
+ipywidgets
 jedi==0.18.1
 Jinja2==3.0.3
 joblib==1.1.0
